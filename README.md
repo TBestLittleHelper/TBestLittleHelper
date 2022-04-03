@@ -1,4 +1,7 @@
-### Hi there 👋
+I checked it very thoroughly, said the computer, and that quite definitely is the answer. I think the problem, to be quite honest with you, is that you've never actually known what the question is. 
+
+~Douglas Adams, The Hitchhiker's Guide to the Galaxy (1979)
+
 
 <!--
 **TBestLittleHelper/TBestLittleHelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
